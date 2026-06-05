@@ -2,18 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TheCkasper/TheCkasper/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=TheCkasper&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/TheCkasper/TheCkasper/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemVoa3hkbndsYTZwaTN0dHIyaThjZGlibndsbWNlM3RvbnYzMzJsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/e1Lidalm3Axx8BmhC7/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
