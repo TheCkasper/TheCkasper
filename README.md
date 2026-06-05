@@ -1,4 +1,8 @@
-<h2 align="left">Hola TONOTONOS!! soy Theckasper</h2>
+<h2 align="left">Hi TONOTONOS!! I´m TheCkasper</h2>
+
+###
+
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemVoa3hkbndsYTZwaTN0dHIyaThjZGlibndsbWNlM3RvbnYzMzJsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/e1Lidalm3Axx8BmhC7/giphy.gif"  />
 
 ###
 
@@ -48,11 +52,5 @@
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/TheCkasper/TheCkasper/snake-output/snake.svg" alt="Snake animation" />
 
 ###
